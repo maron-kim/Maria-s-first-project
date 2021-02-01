@@ -16,3 +16,9 @@ body header .header .logo img {
     border: 10px purple solid;
     border-radius: 50%;
 }
+
+.email a {
+    text-decoration: none;
+    color: rgb(210, 101, 231);
+    font-size: 20px;
+}
